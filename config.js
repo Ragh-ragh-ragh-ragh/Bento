@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'Arm',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
@@ -23,11 +23,11 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Layout
-  bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
-  weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+  weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
