@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Arm',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: false,
   twelveHourFormat: false,
 
